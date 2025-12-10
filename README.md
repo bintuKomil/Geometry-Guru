@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+# Geometry-Guru
+>>>>>>> 649a0f3e6c4450403d0b2fd0b71fd99e9a969500
 📐 Geometry Guru — C# Konsol Dasturi
 
 Geometry Guru — bu turli geometrik figuralarning yuzalarini hisoblaydigan va uchburchaklar bilan ishlash uchun qulay menyuga ega bo‘lgan C# konsol dasturi.
@@ -100,4 +104,8 @@ Har bir bo‘limdan so‘ng ENTER bosib davom ettirish mumkin
 
 Manfiy yoki noto‘g‘ri qiymatlarda batafsil ogohlantirishlar mavjud
 
+<<<<<<< HEAD
 Uchburchakning degenerat holatlarini aniqlaydi
+=======
+Uchburchakning degenerat holatlarini aniqlaydi
+>>>>>>> 649a0f3e6c4450403d0b2fd0b71fd99e9a969500
